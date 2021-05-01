@@ -10365,7 +10365,7 @@ body {
 
 .sha{
   font-size: 3rem;
-  text-shadow: 2px 0 0 #ffc107, -2px 0 0 #ffc107, 0 2px 0 #fd7e14, 0 -2px 0 #ffc107, 1px 1px #fd7e14, -1px -1px 0 #ffc107, 1px -1px 0 #ffc107, -1px 1px 0 #ffc107;
+  text-shadow: 2px 0 0 #495057, -2px 0 0 #495057, 0 2px 0 #495057, 0 -2px 0 #495057, 1px 1px #495057, -1px -1px 0 #495057, 1px -1px 0 #495057, -1px 1px 0 #495057;
 }
 
 .dev-icons{
